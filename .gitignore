@@ -125,17 +125,20 @@ celerybeat.pid
 .chop
 .Books
 .Images
+.Data
 env/
 venv/
 chop/
 Books/
 Images/
+Data/
 ENV/
 env.bak/
 venv.bak/
 chop.bak/
 Books.bak/
 Images.bak/
+Data.bak/
 
 # Spyder project settings
 .spyderproject
